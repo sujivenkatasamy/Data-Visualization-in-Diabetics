@@ -1,2 +1,2 @@
 # Data-Visualization-in-Diabetics
-Analysing and visualizing Diabetics data
+Analysing and Visualizing Diabetics data
